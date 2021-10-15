@@ -14,7 +14,7 @@
 - Installation:
 	- log in via ssh 
 	- clone from the GIT repo
-	- sudo pip install ./GPIODependentActor
+	- sudo pip install ./cbpi4-GPIODependentActor
 	- cbpi add cbpi4-GPIODependentActor
 	
 - Changelog:
